@@ -1,2 +1,2 @@
-# make-money-with-mobile-app
+# 移动开发赚钱交流群
 如何开发移动应用赚钱
